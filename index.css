@@ -1,0 +1,293 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    position: absolute;
+    left: 150px; 
+    top: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+    
+}
+.home{
+    color:rgb(255, 136, 0);
+}
+.atxt{
+    position: absolute;
+    left: 30%;
+    top: 40px;
+}
+.but1{
+    position: absolute;
+    left: 70%;
+    top:40px ;
+    width: 140px;
+    height: 25px;
+    background-color: rgb(255, 136, 0);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+h2{
+    font-size: xx-large;
+    position: absolute;
+    left: 190px;
+    top: 120px;
+}
+.p1{
+    color: grey;
+    font-size: smaller;
+    position: absolute;
+    left: 190px;
+    top: 235px;
+}
+.but2{
+    position: absolute;
+    left: 190px;
+    top:280px ;
+    width: 150px;
+    height: 25px;
+    background-color: rgb(255, 136, 0);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+.img1{
+    position: absolute;
+    left: 58%;
+    top: 100px;
+    width: 250px;
+}
+.h31{
+    text-align: center;
+    margin-top: 400px;
+    font-size: x-large;
+}
+.d1{
+    border: 1px solid grey;
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+.img2{
+    width: 130px;
+    height: 115px;
+    align-self: center;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.d2{
+    border: 1px solid grey;
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 420px;
+    margin-top: -200px;
+}
+.img3{
+    width: 130px;
+    height: 115px;
+    align-self: center;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.d3{
+    border: 1px solid grey;
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 590px;
+    margin-top: -200px;
+}
+.img4{
+    width: 130px;
+    height: 115px;
+    align-self: center;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.d4{
+    border: 1px solid grey;
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 760px;
+    margin-top: -200px;
+}
+.img5{
+    width: 130px;
+    height: 115px;
+    align-self: center;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.p2{
+    text-align: center;
+    font-size: x-small;
+    color: grey;
+}
+.p3{
+    text-align: center;
+    font-size: x-small;
+    color: grey;
+}
+.p4{
+    text-align: center;
+    font-size: x-small;
+    color: grey;
+}
+.p5{
+    text-align: center;
+    font-size: x-small;
+    color: grey;
+}
+.btn1{
+    width: 130px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: grey;
+    border: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.btn2{
+    width: 130px;
+    height: 25px;
+    border-radius: 5px;
+    background-color:rgb(255, 136, 0);
+    border: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: white;
+}
+.btn3{
+    width: 130px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: grey;
+    border: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.btn4{
+    width: 130px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: grey;
+    border: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.h32{
+    text-align: center;
+    margin-top: 30px;
+    font-size: x-large;
+}
+.p6{
+    text-align: center;
+    font-size: x-small;
+    margin-top: 5px;
+    color: grey;
+}
+.img6{
+    width: 150px;
+    border-radius: 10px;
+    position: absolute;
+    left: 250px;
+    top: 740px;
+    height: 100px;
+}
+.p7{
+    position: absolute;
+    left: 255px;
+    top: 820px;
+    font-size: small;
+}
+.img7{
+    width: 150px;
+    border-radius: 10px;
+    position: absolute;
+    left: 420px;
+    top: 740px;
+    height: 100px;
+}
+.img8{
+    width: 150px;
+    border-radius: 10px;
+    position: absolute;
+    left: 590px;
+    top: 740px;
+    height: 100px;
+}
+.img9{
+    width: 150px;
+    border-radius: 10px;
+    position: absolute;
+    left: 760px;
+    top: 740px;
+    height: 100px;
+}
+.fa-circle-left{
+    position: absolute;
+    left: 48%;
+    top: 880px;
+    font-size: x-large;
+    color: darkslategray;
+    cursor: pointer;
+}
+.fa-circle-right{
+    position: absolute;
+    left: 52%;
+    top: 880px;
+    font-size: x-large;
+    color: darkslategray;
+    cursor: pointer;
+}
+.h33{
+    position: absolute;
+    left: 250px;
+    top: 950px;
+    font-size: x-large
+}
+.p8{
+    position: absolute;
+    left: 250px;
+    top: 985px;
+    color: grey;
+    font-size: smaller;
+}
+.but3{
+    position: absolute;
+    left: 250px;
+    top: 1030px;
+    background-color: rgb(255, 136, 0);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+}
+.img10{
+    position: absolute;
+    left: 750px;
+    top: 920px;
+    width: 200px;
+    border-radius: 15px;
+}
